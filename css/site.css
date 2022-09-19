@@ -53,17 +53,18 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .bsicon{
-    color: purple;
+    color: rgb(119,46,157);
 }
 .jsicon{
-    color: rgb(226,211,4);
+    color: rgb(247,223,31);
 }
 .html5icon{
-    color: orangered;
+    color: rgb(227,79,38);
 }
 .cssicon{
-    color: rgb(11,82,214);
+    color: rgb(22,114,182);
 }
+
 
 .checklist >li i{
         color: var(--secondary-color);
