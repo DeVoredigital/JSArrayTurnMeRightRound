@@ -31,7 +31,7 @@ function reverseString(userString) {
 function displayString(revString){
 
     //write message to page
-    document.getElementById("msg").innerHTML = `Your string revered is: ${revString}`;
+    document.getElementById("msg").innerHTML = `Your string reversed is: ${revString}`;
     
     //show alert box
     document.getElementById("alert").classList.remove("invisible");
